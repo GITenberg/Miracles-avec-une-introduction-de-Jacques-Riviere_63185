@@ -1,0 +1,37 @@
+_repo: Miracles-avec-une-introduction-de-Jacques-Riviere_63185
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Rivière, Jacques
+    alias: Riviere, Jacques
+    birthdate: 1886
+    deathdate: 1925
+    gutenberg_agent_id: '46902'
+    url: http://www.gutenberg.org/2009/agents/46902
+  - agent_name: Alain-Fournier
+    aliases:
+    - Alain-Fournier, Henri
+    - Fournier, Alain
+    - Fournier, Henri-Alban
+    birthdate: 1886
+    deathdate: 1914
+    gutenberg_agent_id: '1872'
+    url: http://www.gutenberg.org/2009/agents/1872
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Alain-Fournier
+    - http://en.wikipedia.org/wiki/Alain-Fournier
+description: ''
+gutenberg_issued: '2020-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63185'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Miracles
+
+  avec une introduction de Jacques Rivière'
+url: http://www.gutenberg.org/ebooks/63185
