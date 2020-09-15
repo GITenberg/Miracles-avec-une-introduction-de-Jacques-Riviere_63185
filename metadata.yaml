@@ -1,5 +1,8 @@
 _repo: Miracles-avec-une-introduction-de-Jacques-Riviere_63185
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63185-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Rivière, Jacques
@@ -21,6 +24,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Alain-Fournier
     - http://en.wikipedia.org/wiki/Alain-Fournier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63185#Miracles-avec-une-introduction-de-Jacques-Riviere
 gutenberg_issued: '2020-09-12'
 gutenberg_type: Text
 identifiers:
